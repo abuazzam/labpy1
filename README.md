@@ -9,3 +9,5 @@
 
 tambah text
 
+## GAMBAR 3
+![img3](https://github.com/abuazzam/labpy1/blob/master/gambar1.png)
